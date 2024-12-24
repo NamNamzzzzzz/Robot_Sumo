@@ -83,9 +83,9 @@ Dự án được thực hiện với mục tiêu học hỏi thêm kinh nghiệ
 
 ---
 
-## Hình ảnh và video
+## Hình ảnh 
 ### 1. Mô hình Robot Sumo:
-*(Thêm hình ảnh thực tế của robot tại đây)*
+![Robot Sumo](sumo.jpg)
 
 ---
 
